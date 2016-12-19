@@ -1,39 +1,27 @@
-\documentclass[14pt]{extreport}
+\documentclass[a4paper,14pt]{extreport}
 
-\usepackage{geometry}
- \geometry{
- a4paper,
- left=30mm,
- right=15mm,
- top=20mm,
- bottom=20mm,
- }
-
+\usepackage[T1,T2A]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
-\usepackage{ragged2e}
-\usepackage{mathtools}
-\usepackage{amssymb}
 \usepackage{lastpage}
 \usepackage{hyperref}
-\usepackage{caption}
-\usepackage{graphicx}
+\usepackage{graphics}
 \graphicspath{ {images/} }
 
-\begin{document}
+\usepackage{styles/bsumain}
+\usepackage{blindtext}
 
-\newcommand\tab[1][7mm]{\hspace*{#1}}
+\begin{document}
 
 \input{titlepage.tex}
 \setcounter{page}{2}
 \input{contents.tex}
 \input{annotation.tex}
-
 \input{introduction.tex}
 \input{theory.tex}
 \input{practice.tex}
 \input{conclusions.tex}
-
 \input{literature.tex}
 
 \end{document}
+
+
