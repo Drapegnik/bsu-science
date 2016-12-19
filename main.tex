@@ -2,6 +2,7 @@
 
 \usepackage[T1,T2A]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage[figure,table]{totalcount}
 \usepackage{lastpage}
 \usepackage{hyperref}
 \usepackage{graphics}
@@ -10,12 +11,17 @@
 \usepackage{styles/bsumain}
 \usepackage{blindtext}
 
+\newcommand*{\jobtitle}[1]{\gdef\@jobtitle{#1}}
+
+\jobtitle{РАЗРАБОТКА АЛГОРИТМОВ НАВИГАЦИИ БЕСПИЛОТНЫХ ЛЕТАТЕЛЬНЫХ АППАРАТОВ}
+
 \begin{document}
 
 \input{titlepage.tex}
 \setcounter{page}{2}
-\input{contents.tex}
 \input{annotation.tex}
+\input{essay.tex}
+\input{contents.tex}
 \input{introduction.tex}
 \input{theory.tex}
 \input{practice.tex}
