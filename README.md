@@ -2,7 +2,7 @@
 🎓 My science works on FAMCS, BSU
 
 ## course project
-* You can read rendered report just [here](https://drapegnik.github.io/bsu-science/couse_project.pdf)
+* You can read rendered report just [here](https://drapegnik.github.io/bsu-science/course_project.pdf)
 * Check report code in [release `v1.0.0`](https://github.com/Drapegnik/bsu-science/releases/tag/v1.0.0)
 * Check application [repository](https://github.com/lybros/drone-vision)
 
