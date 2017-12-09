@@ -12,15 +12,16 @@
 
 ## course work
 
-* You can read rendered report just
-  [here](https://drapegnik.github.io/bsu-science/course_work.pdf)
+* You can read rendered report just [here](https://drapegnik.github.io/bsu-science/course_work.pdf)
+* Check report code in
+  [release `v1.1.0`](https://github.com/Drapegnik/bsu-science/releases/tag/v1.1.0)
 * And watch presentation
   [here](https://docs.google.com/presentation/d/161g6bRi6klaJ416lPPkY5j0UghrihfigWrKDQApp71c/pub?start=false&loop=false&delayms=3000)
 * Check application [repository](https://github.com/lybros/appa)
 
 ## notes
 
-* I use [bsu-style](https://github.com/bsutex/bsustyle) for correct _tex_
-  formatting. Recommend to take a look.
+* I use [bsu-style](https://github.com/bsutex/bsustyle) for correct _tex_ formatting. Recommend to
+  take a look.
 * All reports can be downloaded from
   [`docs/`](https://github.com/Drapegnik/bsu-science/tree/master/docs) folder
