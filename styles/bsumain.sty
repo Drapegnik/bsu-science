@@ -177,13 +177,13 @@
 \renewcommand{\@makechapterhead}[1] {
   \vspace{36pt} % Пустое место вверху страницы
   {
-    \centering
+    % \centering
     \parindent=18pt
     \normalfont\large\bfseries
-    % \chaptername ~ \thechapter{} \par % Номер главы
+    ГЛАВА \thechapter. % Номер главы
     #1 \par % Заголовок текста с новой строки
     \nopagebreak % Не отрываем заголовок от текста
-    \vspace{36pt} % Пустое место между заголовком и текстом
+    \vspace{30pt} % Пустое место между заголовком и текстом
   }
 }
 

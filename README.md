@@ -2,6 +2,15 @@
 
 🎓 My science works on FAMCS, BSU
 
+## 4th course project
+
+* You can read rendered report just
+  [here](https://drapegnik.github.io/bsu-science/4th_course_work.pdf)
+* Check report code in
+  [release `v2.0.0`](https://github.com/Drapegnik/bsu-science/releases/tag/v2.0.0)
+* And watch presentation
+  [here](https://docs.google.com/presentation/d/e/2PACX-1vRFiTfkBQKGjRlOPysUdg21WhlLiT0j5QRBzsHCf-r8sDQl7aIjv2y03xTsnmNKBomY005vewqOjip5/pub?start=false&loop=false&delayms=3000)
+
 ## 3th course work
 
 * You can read rendered report just
