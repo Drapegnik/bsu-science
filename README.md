@@ -5,7 +5,7 @@
 ## 4th course project
 
 * You can read rendered report just
-  [here](https://drapegnik.github.io/bsu-science/4th_course_work.pdf)
+  [here](https://drapegnik.github.io/bsu-science/4th_course_project.pdf)
 * Check report code in
   [release `v2.0.0`](https://github.com/Drapegnik/bsu-science/releases/tag/v2.0.0)
 * And watch presentation
