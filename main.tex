@@ -8,6 +8,9 @@
 \usepackage{graphics}
 \graphicspath{ {images/} }
 \usepackage{subcaption}
+\usepackage{paralist}
+  \let\itemize\compactitem
+  \let\enumerate\compactenum
 
 \usepackage{styles/bsumain}
 \usepackage{blindtext}
@@ -21,7 +24,6 @@
 
 \input{titlepage.tex}
 \setcounter{page}{2}
-\input{annotation.tex}
 \input{essay.tex}
 \input{contents.tex}
 \input{introduction.tex}
