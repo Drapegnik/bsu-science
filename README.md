@@ -2,6 +2,17 @@
 
 🎓 My science works on FAMCS, BSU
 
+## diploma
+
+* [Task](https://drapegnik.github.io/bsu-science/diploma/task.pdf)
+* [Report](https://drapegnik.github.io/bsu-science/diploma/report.pdf)
+* [Presentation](https://drapegnik.github.io/bsu-science/diploma/presentation.pdf)
+* [Review](https://drapegnik.github.io/bsu-science/diploma/review.pdf)
+* [Critique](https://drapegnik.github.io/bsu-science/diploma/critique.pdf)
+* [Certificate](https://drapegnik.github.io/bsu-science/diploma/certificate.pdf)
+
+> 43 pages, 90.34% originality, 9/10 rating
+
 ## 4th course project
 
 * You can read rendered report just
