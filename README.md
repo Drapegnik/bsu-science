@@ -6,6 +6,7 @@
 
 * [Task](https://drapegnik.github.io/bsu-science/diploma/task.pdf)
 * [Report](https://drapegnik.github.io/bsu-science/diploma/report.pdf)
+* [Annotation](https://drapegnik.github.io/bsu-science/diploma/annotation.pdf)
 * [Presentation](https://drapegnik.github.io/bsu-science/diploma/presentation.pdf)
 * [Review](https://drapegnik.github.io/bsu-science/diploma/review.pdf)
 * [Critique](https://drapegnik.github.io/bsu-science/diploma/critique.pdf)
