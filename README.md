@@ -22,6 +22,7 @@
   [release `v2.0.0`](https://github.com/Drapegnik/bsu-science/releases/tag/v2.0.0)
 * And watch presentation
   [here](https://docs.google.com/presentation/d/e/2PACX-1vRFiTfkBQKGjRlOPysUdg21WhlLiT0j5QRBzsHCf-r8sDQl7aIjv2y03xTsnmNKBomY005vewqOjip5/pub?start=false&loop=false&delayms=3000)
+* My published [article](http://elib.bsu.by/handle/123456789/191713)
 
 ## 3th course work
 
